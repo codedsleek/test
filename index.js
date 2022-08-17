@@ -2,7 +2,7 @@ const info = [
     {
         id: 1,
         name: "Ola Smith",
-        img: "img/image-tanya.jpg",
+        img: "./img/image-tanya.jpg",
         quote: `"I've been interested in coding for a while but never taken the jump until now. I couldn't recommend this course enough. I"m now in the job of my dream and so excited about the future."`,
         work: "UI Designer",
 
@@ -11,7 +11,7 @@ const info = [
     {
         id: 2,
         name: "Ade Toun",
-        img: "img/image-john.jpg",
+        img: "./img/image-john.jpg",
         quote: `"I'd recommend taking this course, anyday, anytime. The depth the instructor go into is incredible. I now feel so confident about starting up as a professional developer."`,
         work: "Junior Front-end Developer",
     }
